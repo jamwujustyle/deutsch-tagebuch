@@ -1,6 +1,6 @@
 # Structure
 
-- Keep material in `sources/<source>/<course>/lektion-NN/`; separate each source and course.
+- Keep material in `sources/<source>/<course>/lektion-NN-topic/`; use a short English topic in lowercase with hyphens, keep lesson numbers zero-padded for sorting, and separate each source and course.
 - Put English prompts in `recall.md` and German equivalents in `answers.md`, with matching sections, order, and numbering; never show answers in the recall file.
 - Record the supplied shared date as `YYYY-MM-DD` in Asia/Almaty; do not treat it as a learning date.
 - Keep uncertain lesson assignments in `unassigned/<date>-<topic>/` within that course; never invent a lesson number or missing material.
