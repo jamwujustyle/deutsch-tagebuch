@@ -3,11 +3,11 @@ shared: 2026-10-22
 timezone: Asia/Almaty
 ---
 
-# Lektion 02 — Common Phrases
+# Lektion 02 — Common phrases — English
 
 Source: https://www.youtube.com/watch?v=S8ukFF6SdGk
 
-## English recall prompts
+## Recall
 
 1. Thanks! / Thank you very much!
 2. You are welcome
