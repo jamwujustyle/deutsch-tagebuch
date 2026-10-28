@@ -3,9 +3,9 @@ shared: 2026-10-28
 timezone: Asia/Almaty
 ---
 
-# Lektion 07 — Jemanden kennenlernen
+# Lektion 07 — Getting to know someone — English
 
-## English recall prompts — formal (Sie)
+## Recall — formal (Sie)
 
 1. What is your name?
 2. What is your surname?
@@ -20,7 +20,7 @@ timezone: Asia/Almaty
 11. Yes, I am married.
 12. Yes, I have two children.
 
-## English recall prompts — informal (du)
+## Recall — informal (du)
 
 1. What is your name? (informal)
 2. What is your surname? (informal)
