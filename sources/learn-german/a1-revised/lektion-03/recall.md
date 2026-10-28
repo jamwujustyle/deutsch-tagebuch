@@ -3,11 +3,11 @@ shared: 2026-10-22
 timezone: Asia/Almaty
 ---
 
-# Lektion 03 — Numbers 1–20
+# Lektion 03 — Numbers 1–20 — English
 
 Source: https://learngermanoriginal.com/courses/a1-course/lesson-3/
 
-## English recall prompts
+## Recall
 
 1. one
 2. two
