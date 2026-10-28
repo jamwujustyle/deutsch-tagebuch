@@ -4,9 +4,9 @@ timezone: Asia/Almaty
 lektion: unconfirmed
 ---
 
-# Words — Lektion unconfirmed
+# Words — Lektion unconfirmed — English
 
-## English recall prompts
+## Recall
 
 1. excuse me / sorry
 2. thank you
